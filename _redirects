@@ -1,7 +1,9 @@
 # Redirects for curl|bash
 /bootstrap  https://gist.githubusercontent.com/dwallraff/67e42c33d43ec52be3dbc2449bd9aaf2/raw
-/yubikey    https://gist.github.com/dwallraff/08ef797af04e59f3eb0db2e63b681388
 /1password  https://gist.githubusercontent.com/dwallraff/41cb39fda2d3d00b3924003a5fadbd7b/raw
 /puzzles    https://gist.githubusercontent.com/dwallraff/f88f11b6b10976e44e17de0b2a437912/raw
 /scanned    https://gist.githubusercontent.com/dwallraff/cd6cedd3d89d9da446165fef8aaffb54/raw
+
+# Redirects for ... me being lazy
+/yubikey    https://gist.github.com/dwallraff/08ef797af04e59f3eb0db2e63b681388
 /comics     https://theoldreader.com/folders/62e5ac38fea0e7c17700054b
