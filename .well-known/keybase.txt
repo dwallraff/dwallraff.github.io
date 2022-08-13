@@ -6,72 +6,47 @@ I hereby claim:
 
   * I am an admin of https://dwallraff.com
   * I am dwallraff (https://keybase.io/dwallraff) on keybase.
-  * I have a public key with fingerprint B79F 2CF6 DB16 BF39 A6FD  74DC 544E D4AA 21AF 7568
+  * I have a public key ASBAaRcb3D-ioeU5i3LIjoLH_dpqO-9wK_5R1ZynVsD_Nwo
 
 To do so, I am signing this object:
 
 {
-    &quot;body&quot;: {
-        &quot;key&quot;: {
-            &quot;eldest_kid&quot;: &quot;0101eb5ea0c56e1e4dca9c05b9a8aff23d358b92cf9f79d91f2203fe26d4e760c2960a&quot;,
-            &quot;fingerprint&quot;: &quot;b79f2cf6db16bf39a6fd74dc544ed4aa21af7568&quot;,
-            &quot;host&quot;: &quot;keybase.io&quot;,
-            &quot;key_id&quot;: &quot;544ed4aa21af7568&quot;,
-            &quot;kid&quot;: &quot;0101eb5ea0c56e1e4dca9c05b9a8aff23d358b92cf9f79d91f2203fe26d4e760c2960a&quot;,
-            &quot;uid&quot;: &quot;91b84ccba0b92892dfecd5ac632a5a00&quot;,
-            &quot;username&quot;: &quot;dwallraff&quot;
-        },
-        &quot;merkle_root&quot;: {
-            &quot;ctime&quot;: 1500562142,
-            &quot;hash_meta&quot;: &quot;9faff7216a4afd6a5243494e929f843c9483a43a441560c6c4ca29bd5ecd0275&quot;,
-            &quot;seqno&quot;: 1265921
-        },
-        &quot;revoke&quot;: {
-            &quot;sig_ids&quot;: [
-                &quot;2b4ce97d3c4c52da8c979a8dbf0d1a1728bfa9c9b0a8ab707843c2fccb688e5a0f&quot;
-            ]
-        },
-        &quot;service&quot;: {
-            &quot;hostname&quot;: &quot;dwallraff.com&quot;,
-            &quot;protocol&quot;: &quot;https:&quot;
-        },
-        &quot;type&quot;: &quot;web_service_binding&quot;,
-        &quot;version&quot;: 1
+  "body": {
+    "key": {
+      "eldest_kid": "0101eb5ea0c56e1e4dca9c05b9a8aff23d358b92cf9f79d91f2203fe26d4e760c2960a",
+      "host": "keybase.io",
+      "kid": "01204069171bdc3fa2a1e5398b72c88e82c7fdda6a3bef702bfe51d59ca756c0ff370a",
+      "uid": "91b84ccba0b92892dfecd5ac632a5a00",
+      "username": "dwallraff"
     },
-    &quot;ctime&quot;: 1500562177,
-    &quot;expire_in&quot;: 157680000,
-    &quot;prev&quot;: &quot;603fa505861027d5aaf9452a4a806b0343fa24db6c5e336a83245b05a175ce52&quot;,
-    &quot;seqno&quot;: 74,
-    &quot;tag&quot;: &quot;signature&quot;
+    "merkle_root": {
+      "ctime": 1660416949,
+      "hash": "2ac88fd56d28949d17a36358d70a1798ac76fdd9bed7756aee61fcc7f8d4a836918a1ebd6872f466967ae249e7a395fa5a80d6f5f8ac7ae8c73f370c41c26dda",
+      "hash_meta": "e665640e592d3222e5992b2d49a11e3e8cd690640cfbc9a936c101167217c645",
+      "seqno": 23017181
+    },
+    "service": {
+      "entropy": "MVDIYs8PL3djdzCIGSfOwkcL",
+      "hostname": "dwallraff.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.2"
+  },
+  "ctime": 1660417007,
+  "expire_in": 504576000,
+  "prev": "eb7b5d95b5c41a4e4daed0c9461df33f000d3e1fe4d2a823c9ce55b775c89cc7",
+  "seqno": 263,
+  "tag": "signature"
 }
 
 which yields the signature:
 
------BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.0.73
-Comment: https://keybase.io/crypto
-
-yMKvAnicrVNdaBxFHL9YP2igWIO19kXLUhBLjLOzM7M715BIYqnGYk3VlpDTy3wm
-y11uz93NJSEe1gd9iBZpQO2TDdQUbMGi1A8qifHSKlQs6Ist9UHyoEIiPRCpHy31
-v0ERio8uC8vu/L7+v9k5s2FdrrWlvvmy7i79+nvLl42JsdxAdallypGRnnTyU07J
-rD1MWZskLZZC7eQd5CLXSGoEUpQZ1xCtBFeISi4CYS32tEcDybGy3Ppcc9dijDxr
-MNPE+AwpzBkSTrtjw8qwiatxWElBVvrcAodp6TJpPS6Y1T5oU0KMJkJgV1ifsgCI
-I1GSMSCcFInpCCP4Bi/FtXj/gf+fc4+tyXFXBkQpKRBwAo61NUpToZiHBRUIZcDE
-xBUxagCtx0W5HIONU293Rk1cKptiHEVp1q5KwwzjUoQowy7BMKFIRoqjJhWZkQWa
-j10miLCaCYqJRzgxHHMbEE9xEniCwE1cCimZIkpgLjWFPAj7FIIk5rlKBA6YUY5d
-SBCbWlQymXkSDkNviZMfdLAkynBfe6BAsRaB4j50o6VF2hWujwNpoTEuERQmfeRn
-7thCBywIDMxsnWfqmVlcC9WaeLZRNxbQoaJRiFSNozRSURmWRtK0muSzYtLJaoYd
-N7L4t0pRhhUN/wkwaiZOwqgCYwDyhs58v90xE9UwNsUwQ1CfBQiuzMfUQJLBTgqK
-aMBc6AT2SVhOKIZKA8Qk8ggsY6IlU9R4HhOBhwmViMLYVBmK/y3RJ5BTDIMmVFcR
-6VhsnHpjsXBzrqU1d+stN2UHKNe6fuM/x2qXd9v1tHNpPt1y9d2d17oeP/vz2/e/
-9drUhQPL+w/fjhZn7h4pPrq6bWimr3Fm69bPNnxzck986GjPt8sf7ov+2DTR9sr1
-C23X9rx8vtZz/Ep+5vMd7915sGOu/0oiLz946VCOX+r1CptPLpwIXyLfdTdW7mt+
-9WPywt7du5YaO9cPfTJUGLxrub7l1Njqx4vOnPdmNPjIxdX+Quu2539YaJuNniy/
-frqXfTTe3Nt9rLBj/0PNyYXzxc6VF7fP/hQenew/8rX7yzt9A9/fO1/uGbjj1BN9
-n5rproVND5x+3+xDqv7Yxj/vuXhg+7rZIwenH979QTPtPt77xhe/nXvq6enc4avH
-5p8Vzbmus+c6V+yrfwHNaobs
-=McU8
------END PGP MESSAGE-----
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgQGkXG9w/oqHlOYtyyI6Cx/3aajvvcCv+UdWcp1bA/zcKp3BheWxvYWTETJcCzQEHxCDre12VtcQaTk2u0MlGHfM/AA0+H+TSqCPJzlW3dcicx8QgfYRGtk0i1Ir/O4DiwZEARLmdqG0Nv0iLXuHSjna9/FsCAcKjc2lnxEDhnPFL4G4UeM7RYEXKRAvTXet+m7rrwUsqqIiCPB45Oi0nFGM0M/pvT68wLYBzWMZTibWGQHDz1ccRvojJfvIDqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgguI2xoMXBSLD/0C1VyTGkOgWJVdUdPrrX0acq6ZEWlOjdGFnzQICp3ZlcnNpb24B
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
@@ -79,4 +54,3 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/dwallraff
 
 ==================================================================
-
