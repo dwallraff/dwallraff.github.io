@@ -1,1 +1,1 @@
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIMyC4loNkfpOI0sbK2rtjhuZZw01DY5ilYKjiLiRrN/ dwallraff
+sk-ssh-ed25519@openssh.com AAAAGnNrLXNzaC1lZDI1NTE5QG9wZW5zc2guY29tAAAAIA7wRLOh2iJDIFocoOBIKsnxNFYLZ3jGhgnBnCYFl3tTAAAABHNzaDo= dave@dwallraff.com
